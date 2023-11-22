@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="/php-badwords/text.php" method="get">
+    <form action="./text.php" method="get">
     <input type="text" name="parola" placeholder="Scrivi una parola">
     <input type="submit" value="Submit">
     </form>
